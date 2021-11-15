@@ -1,1 +1,1 @@
-{"id":"1c373daa-fb45-426a-8fc8-4cbf69550fc7","ingredients":[],"name":"Chutney de poivron"}
+{"id":"1c373daa-fb45-426a-8fc8-4cbf69550fc7","ingredients":[{"amount":500.0,"name":"poivron","unit":"g"},{"amount":250.0,"name":"sucre","unit":"g"},{"amount":10.0,"name":"vinaigre de vin","unit":"cl"},{"amount":10.0,"name":"eau","unit":"cl"},{"amount":1.0,"name":"pomme"},{"amount":4.0,"name":"échalote"},{"amount":3.0,"name":"sel","unit":"g"},{"name":"poivre"}],"name":"Chutney de poivron","steps":[{"step":""}]}
